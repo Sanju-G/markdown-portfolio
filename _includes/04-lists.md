@@ -1,4 +1,4 @@
 Replace this with a list of your favorite things.
-*Travel
-*Sports
-*Movies
+* Travel
+* Sports
+* Movies
